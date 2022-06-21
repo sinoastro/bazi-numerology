@@ -8,7 +8,7 @@
 
 - 节气标注以及精确的二十四节气时间
 
-节气时间虽然可以通过纯数学算法得到，但与真实情况还是存在少许误差，因此使用NASA提供的[Horizons API](https://ssd.jpl.nasa.gov/)，用法可参考 -> https://github.com/kumkee/solarterms
+虽然有成熟的算法可以得到节气时间，但与真实情况还是存在少许误差，因此使用NASA提供的[Horizons API](https://ssd.jpl.nasa.gov/)，用法可参考 -> https://github.com/kumkee/solarterms
 
 - 不限时间跨度的农历以及干支日历
 
