@@ -4,11 +4,11 @@
 
 ### 1.万年历
 
-转换算法的根本是万年历，理想的干支万年历应该包含
+转换算法的根本是万年历，网上已经有不少万年历的库及产品，但理想的干支万年历应该包含
 
-- 节气标注以及精确的二十四节气时间
+- 精确的二十四节气时间
 
-虽然有成熟的算法可以得到节气时间，但与真实情况还是存在少许误差，因此使用NASA提供的[Horizons API](https://ssd.jpl.nasa.gov/)，用法可参考 -> https://github.com/kumkee/solarterms
+虽然有成熟的算法可以得到节气时间，但与真实情况相比还是存在少许误差，因此使用NASA提供的[Horizons API](https://ssd.jpl.nasa.gov/)，用法可参考 -> https://github.com/kumkee/solarterms
 
 - 不限时间跨度的农历以及干支日历
 
