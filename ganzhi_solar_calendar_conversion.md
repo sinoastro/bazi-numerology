@@ -16,7 +16,7 @@
 
 理想效果如下，细节详下正查算法
 
-![](./img/sample_calendar.jpeg)
+![](./img/sample_calendar.jpeg=500x)
 
 
 ### 2.五龙遁算法
