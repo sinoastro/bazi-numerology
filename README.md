@@ -8,7 +8,7 @@
 
 一是用户输入阳历/阴历日期，比如输入 -> 1963年4月27日8时，需要转换为对应的八字一并进行保存。比如用户可以通过如下界面选择日期进行录入：
 
-![](./img/sample_calendar.jpeg)
+<img width="650" alt="image" src="./img/sample_calendar.jpeg">
 
 另一种是用户直接输入八字，比如某人八字为 -> 癸卯 丙辰 庚子 庚辰，则需要转换为对应的阳历/阴历日期一并进行保存。此功能目前只有个别软件支持，但实现效果却不理想。
 
@@ -26,5 +26,5 @@
 
 前期计划只需要能够展示，颜值、专业性等暂不考虑
 
-<img width="1318" alt="image" src="https://github.com/sinoastro/bazi-numerology/assets/88317769/948d3cb5-f50c-4d2f-9b3f-b842eed624ef">
+<img width="650" alt="image" src="https://github.com/sinoastro/bazi-numerology/assets/88317769/948d3cb5-f50c-4d2f-9b3f-b842eed624ef">
 
