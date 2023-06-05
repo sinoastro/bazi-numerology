@@ -45,5 +45,4 @@
 
 ### 录入步骤mockup
 
-
-
+<img width="2570" alt="image" src="https://github.com/sinoastro/bazi-numerology/assets/88317769/74edc959-26c3-467a-a378-88b6caf38377">
