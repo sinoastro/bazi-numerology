@@ -45,7 +45,7 @@
 
 <img width="2570" alt="image" src="https://github.com/sinoastro/bazi-numerology/assets/88317769/74edc959-26c3-467a-a378-88b6caf38377">
 
-关于保存模版，需要包含以下：
+关于第五点，保存八字需要的模版，需要包含以下：
 
 **必填的：** 性别，八字来源，出生地
 
