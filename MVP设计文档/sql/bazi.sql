@@ -33,9 +33,14 @@ CREATE TABLE regions (
 );
 
 
--- gender options: ('男', '女', '保密');
--- source options: ('熟人介绍', '名人年谱', '未知');
--- reliability options: ('高', '普通', '低', '未知');
+-- gender options
+-- ('男', '女', '保密')
+
+-- source options
+-- ('熟人介绍', '名人年谱', '未知')
+
+-- reliability options, reference: https://www.astro.com/astro-databank/Help:RR
+-- ('AA', 'A', 'B', 'C', 'DD', 'X', 'XX')
 
 -- 八字信息
 CREATE TABLE infos (
